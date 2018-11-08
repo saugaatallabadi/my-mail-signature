@@ -1,3 +1,3 @@
 # my-mail-signature
 
-(Old version)
+<i>(Old version)</i>
